@@ -228,3 +228,40 @@ history -a
 ./salon.sh
 echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
 history -a
+./salon.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./salon.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./salon.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./salon.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./salon.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./salon.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./salon.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./salon.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./salon.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+./salon.sh
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+pg_dump -cC --inserts -U freecodecamp salon > salon.sql
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git status
+echo $PWD >> /workspace/project/.freeCodeCamp/test/.cwd
+history -a
+git add .
